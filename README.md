@@ -5,19 +5,15 @@
 - [Password-Generator](#password-generator)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
-    - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
       - [Mobile View](#mobile-view)
       - [Tablet View](#tablet-view)
       - [Desktop View](#desktop-view)
     - [Links](#links)
-  - [My process](#my-process)
     - [Built with](#built-with)
 
 
 ## Overview
-
-### The challenge
 
 Users should be able to:
 
@@ -43,10 +39,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://www.frontendmentor.io/challenges/password-generator-app-Mr8CLycqjh/hub)
-
-## My process
+- [Solution URL](https://github.com/MoayyadShahid/Password-Generator)
+- [Live Site URL](https://moayyadshahid.github.io/Password-Generator/)
 
 ### Built with
 
