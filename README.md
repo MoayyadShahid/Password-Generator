@@ -7,9 +7,9 @@
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
-      - [Mobile View :](#mobile-view-)
-      - [Tablet View :](#tablet-view-)
-      - [Desktop View :](#desktop-view-)
+      - [Mobile View](#mobile-view)
+      - [Tablet View](#tablet-view)
+      - [Desktop View](#desktop-view)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
@@ -29,14 +29,14 @@ Users should be able to:
 
 ### Screenshot
 
-#### Mobile View :
+#### Mobile View
 ![](./mobile-view.png)
 
-#### Tablet View :
+#### Tablet View
 
 ![](./tablet-view.png)
 
-#### Desktop View :
+#### Desktop View
 
 ![](./desktop-view.png)
 
